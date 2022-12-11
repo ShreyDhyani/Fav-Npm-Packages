@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import CustomButton from "../../Components/CustomButton/CustomButton";
 import PackageTable from "../../Components/PackageTable/PackageTable";
 import { useNavigate } from "react-router";
-import Modal from "../../Components/Modal/modal";
+import Modal from "../../Components/Modal/Modal";
 
 const NoReultElement = ({ ...props }) => {
   return (
